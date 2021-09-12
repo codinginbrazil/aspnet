@@ -26,4 +26,4 @@
 'meio para contato'
 
 ## Referência
-'links ou artigos usado no projeto'
+[Workshop: Asp .NET Core para Iniciantes por Glaucia Lemos](https://www.youtube.com/watch?v=QobTy9hMUsA&list=RDCMUC2Qzw5aqCBk_z0lWJnumWQQ&index=1)
