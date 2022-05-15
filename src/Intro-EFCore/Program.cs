@@ -92,15 +92,15 @@ namespace CursoEFCore
                 Status = StatusPedido.Analise,
                 TipoFrete = TipoFrete.SemFrete,
                 Itens = new List<PedidoItem>
-                 {
-                     new PedidoItem
-                     {
-                         ProdutoId = produto.Id,
-                         Desconto = 0,
-                         Quantidade = 1,
-                         Valor = 10,
-                     }
-                 }
+                {
+                    new PedidoItem
+                    {
+                        ProdutoId = produto.Id,
+                        Desconto = 0,
+                        Quantidade = 1,
+                        Valor = 10,
+                    }
+                }
             };
 
             db.Pedidos.Add(pedido);
